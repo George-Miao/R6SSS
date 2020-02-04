@@ -6,16 +6,28 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>353</width>
-    <height>212</height>
+    <width>355</width>
+    <height>221</height>
    </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>355</width>
+    <height>221</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>355</width>
+    <height>221</height>
+   </size>
   </property>
   <property name="windowTitle">
    <string>R6SSS</string>
   </property>
   <property name="windowIcon">
    <iconset>
-    <normaloff>3d-printable-rainbow-six-siege-icons-3d-model-stl.jpg</normaloff>3d-printable-rainbow-six-siege-icons-3d-model-stl.jpg</iconset>
+    <normaloff>icon.ico</normaloff>icon.ico</iconset>
   </property>
   <property name="windowOpacity">
    <double>1.000000000000000</double>
